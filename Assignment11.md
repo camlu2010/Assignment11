@@ -2,6 +2,9 @@
 Cam Lu  
 7/27/2017  
 
+Link to Assignment 11 Finance Data Analysis in GitHub:
+
+https://github.com/camlu2010/Assignment11
 
 # Analysis 
 The packages "tseries" and "zoo" will need to install and enable for the code to run besides the base R programing package. The plot() function from base R package is used that will not need install and enable ggplot2 package.
